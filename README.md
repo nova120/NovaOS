@@ -1,5 +1,5 @@
-# NovaOS
-I highly recommend Turbowarp Desktop, so your settings and filesystems are saved.
+# This is a hub for NovaOS.
+It doesn't host the versions, just brings you to them. It will host the wiki
 
 # Pre-Snowcone & Max
 These are all availible on Scratch. 
