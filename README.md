@@ -1,5 +1,5 @@
 # This is a hub for NovaOS.
-It doesn't host the versions, just brings you to them. It will host the wiki
+Versions will be found in branches.
 
 # Pre-Snowcone & Max
 These are all availible on Scratch. 
@@ -12,11 +12,10 @@ Saturn (3.2) https://scratch.mit.edu/projects/1019870065/
 
 SM (4.0.1) https://scratch.mit.edu/projects/1029229130/
 
-Will provide files upon request.
+Will provide files upon request to base your OSes on.
 
-# Snoecone
-It has it's own github repository.
+# Snoecone (DV)
+Branch "Snowcone Develouper Beta"
 
-I feel like the thing that pulls the updates will get confused if Max and Snowcone were on the same repositoy.
-
-You can find Snowcone here. https://github.com/nova120/NovaOS-Snowcone.git
+# Max 
+I havent started work on Max yet. But it will be in the branch "Max Develouper Beta"
